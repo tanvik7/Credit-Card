@@ -17,7 +17,7 @@ Programming Language: Python
 
 Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-Machine Learning Models: Logistic Regression, Decision Trees, Random Forest, XGBoost, Neural Networks
+Machine Learning Models: Logistic Regression
 
 Evaluation Metrics: Precision, Recall, F1-score, ROC-AUC
 
